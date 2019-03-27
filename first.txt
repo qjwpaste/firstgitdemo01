@@ -1,4 +1,4 @@
-git init
+ï»¿git init
 git status
 git add
 git commit -m ""
@@ -6,4 +6,4 @@ git log
 git reflog
 git log --pretty=oneline
 git log --oneline
-git rest --hard HEAD^^  ÎÒÊÇÒ»´ú
+git rest --hard HEAD^^  æˆ‘æ˜¯ä¸€ä»£
