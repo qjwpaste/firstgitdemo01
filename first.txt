@@ -6,4 +6,4 @@ git log
 git reflog
 git log --pretty=oneline
 git log --oneline
-git rest --hard HEAD^^
+git rest --hard HEAD^^  我是一代
